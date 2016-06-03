@@ -1,5 +1,5 @@
 #' Create hierarchical cluster network diagrams.
-#'
+#' IS THIS BEST FOR PATHWAYS?
 #' @param hc a hierarchical (\code{hclust}) cluster object.
 #' @param height height for the network graph's frame area in pixels
 #' @param width numeric width for the network graph's frame area in pixels
