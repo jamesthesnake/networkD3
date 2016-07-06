@@ -1,5 +1,5 @@
 # D3 JavaScript Network Graphs from R
-
+#look for issues on graphs
 Version 0.2.11 
 [![CRAN Version](http://www.r-pkg.org/badges/version/networkD3)](http://cran.r-project.org/package=networkD3)
 [![Build Status](https://travis-ci.org/christophergandrud/networkD3.svg?branch=master)](https://travis-ci.org/christophergandrud/networkD3)
